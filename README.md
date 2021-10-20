@@ -2,4 +2,4 @@
 ![GitHub followers](https://img.shields.io/github/followers/corneliusroemer?label=Follow&style=social)
 ![Visitor count](https://shields-io-visitor-counter.herokuapp.com/badge?page=corneliusroemer.corneliusroemer)
 
-<img src="https://github-readme-stats.vercel.app/api?username=corneliusroemer&show_icons=true&theme=gotham" alt="corneliusroemer" />
+[![](https://github-readme-stats.vercel.app/api?username=corneliusroemer&hide_rank=true&count_private=true)](https://github.com/corneliusroemer/github-readme-stats)
